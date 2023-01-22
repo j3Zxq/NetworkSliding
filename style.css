@@ -39,3 +39,56 @@ body {
   background: none;
   border: none;
 }
+
+.signature {
+  font-family: arial;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  position: absolute;
+  bottom: 0px;
+  left: 700px;
+}
+
+.org {
+  font-family: arial;
+  font-weight: bold;
+  text-shadow: 0px 1px 9px red;
+  color: red;
+  position: absolute;
+  bottom: 0px;
+  left: 842px;
+}
+.heart {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  font-family: arial;
+  font-weight: bold;
+  position: absolute;
+  bottom: 0px;
+  left: 970px;
+}
+.nick {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  font-family: arial;
+  font-weight: bold;
+  color: #4a9df7;
+  text-shadow: 0px 1px 9px #4a9df7;
+  position: absolute;
+  bottom: 0px;
+  left: 770px;
+}
+.signature-rest {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  font-family: arial;
+  font-weight: bold;
+  color: white;
+  position: absolute;
+  bottom: 0px;
+  left: 817px;
+}
