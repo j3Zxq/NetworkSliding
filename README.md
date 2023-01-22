@@ -1,2 +1,2 @@
 # NetworkSliding
-<a href="www.networktrouble-slidingpuzzle.netlify.app">Link</a>
+https://networktrouble-slidingpuzzle.netlify.app
